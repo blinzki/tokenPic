@@ -1,4 +1,4 @@
-# PoC TokenPic scripts
+# TokenPic scripts
 
 Some scripts for TokenPic process
 
